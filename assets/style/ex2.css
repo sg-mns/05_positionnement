@@ -1,0 +1,21 @@
+#ex2_rectangle1 {
+    width: 800px;
+    height: 300px;
+    left: 50%;
+}
+
+#ex2_rectangle2 {
+    width: 700px;
+    height: 190px;
+    position: relative;
+    left: 200px;
+    top: 55px;
+}
+
+#ex2_rectangle3 {
+    width: 600px;
+    height: 80px;
+    position: relative;
+    left: -400px;
+    top: 55px;
+}

@@ -1,0 +1,31 @@
+#ex4_rectangle1 {
+    width: 350px;
+    height: 50px;
+    position: absolute;
+}
+
+#ex4_rectangle2 {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    top: 80px;
+    left: 130px;
+}
+
+#ex4_rectangle3 {
+    left: 20px;
+    top : 20px;
+}
+
+#ex4_rectangle4 {
+    width: 40px;
+    height: 40px;
+    top: 110px;
+    left: 130px;
+}
+
+.square {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}

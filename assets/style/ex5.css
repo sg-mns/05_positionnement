@@ -1,0 +1,32 @@
+#ex5_rectangle1 {
+    width: 330px;
+    height: 330px;
+    padding: 30px;
+    position: static;
+}
+
+#ex5_rectangle2 {
+    margin-bottom: 30px;
+}
+
+#ex5_rectangle3 {
+    left: 170px;
+    bottom: 180px;
+
+}
+
+#ex5_rectangle4 {
+    left: 170px;
+    bottom: 150px;
+}
+
+#ex5_rectangle5 {
+    bottom: 300px;  
+}
+
+.square {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    box-sizing: border-box;
+}

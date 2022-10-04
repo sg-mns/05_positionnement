@@ -1,0 +1,27 @@
+.green {
+    background-color: #93c331;
+}
+
+.blue {
+    background-color: #5b64bf;
+}
+
+.orange {
+    background-color: #d3691f;
+}
+
+.gray {
+    background-color: #cccccc;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.lightb {
+    background-color: #add9e6;
+}
+
+#container, .blue, .gray, .green, .lightb, .orange, .yellow {
+    border: solid black;
+}
